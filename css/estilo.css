@@ -116,6 +116,48 @@ a:hover{
     font-weight: 400;
     text-align: end;
 }
+#form{
+    width: 100%;
+    height: 700px;
+}
+#form #formulario{
+    margin-top: -4%;
+    margin-left: 32.6%;
+}
+#form #formulario .lbl{
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: start;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+#form #formulario .input{
+    width: 504px;
+    height: 43px;
+    flex-shrink: 0;
+    border: none;
+    border-radius: 3px;
+    background-color: rgba(2, 26, 59, 1);
+    color: white;
+    font-size: 17px;
+    font-weight: 300;
+}
+#form #formulario #submit{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: rgba(4, 49, 112, 1);
+    border-radius: 5px;
+    border: 5px solid white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 25%;
+    padding-right: 25%;
+    margin-top: 12%;
+    margin-left: 13.5%;
+}
 #footer{
     background-color: rgba(2, 26, 59, 1);
     width: 100%;
