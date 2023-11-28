@@ -51,8 +51,11 @@ a:hover{
     border: none;
 }
 #vid{
-    width: 1234px; 
-    height: 694px;
+    width: 1050px; 
+    height: 590px;
+    border: 5px solid white;
+    margin-top: 17%;
+    margin-left: 14.9%;
 }
 #footer{
     background-color: rgba(2, 26, 59, 1);
