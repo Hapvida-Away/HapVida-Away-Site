@@ -6,7 +6,7 @@
 
 O desafio proposto foi desenvolvido a pedido da Hapvida NotreDame Intermédica para ser realizado o desenvolvimento e ideação de uma solução para algum dos problemas que nos foram apresentados, no atual projeto, o monitoramento remoto da saúde de pacientes foi escolhido para ser solucionado. Nesse arquivo você encontrará a justificativa do projeto, os objetivos que ele propõe e a descrição do produto.
 
-Este ainda é relacionado a matéria Computational Thinking with Python, ministrada pelo Professor Francisco Bezerra.
+Este ainda é relacionado as matérias Front-end Design e Web Development, ministradas pelo Professor Wellington Cidade.
 
 # Descrição do Projeto
 
